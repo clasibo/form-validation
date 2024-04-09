@@ -1,4 +1,4 @@
-Form Validator – JS Project
+Form Validator - 
 A basic form registration created just for the front-end with HTML, CSS and JavaScript. 
 I used the most inputs elements for the and I add some interaction with the client-side with JS ant the HTML build-in form elements. 
 For the password validation pattern I used the help of the https://regexr.com/3bfsi and made a pattern which require a min of 8 characters with at least a capital letter and a numbersfor setting up the password. 
